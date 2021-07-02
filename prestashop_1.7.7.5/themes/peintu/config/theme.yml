@@ -1,0 +1,6 @@
+parent: classic
+name: Peintu thème
+display_name: Peintu thème personnalisé
+version: 1.0.0
+assets:
+  use_parent_assets: false
